@@ -1,0 +1,23 @@
+* {
+  font-family: 'Maven Pro', sans-serif;
+}
+
+#logo {
+  margin-top: 8%;
+  margin-left: 8%;
+}
+
+#boton {
+  background-color: #E9B0BF;
+  border-color: #E9B0BF;
+  color: black;
+  font-weight: bold;
+}
+
+label {
+  font-weight: bold;
+}
+
+footer {
+color: #9C8EAA;
+}
